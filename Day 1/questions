@@ -1,0 +1,13 @@
+//Swap 2 numbers without a temporary variable
+
+let a = 10, b = 5
+console.log("a before swap: "+a);
+console.log("b before swap: "+b);
+
+a = a + b
+b = a - b
+a = a - b
+//b = a - b
+
+console.log("a after swap: "+a);
+console.log("b after swap: "+b);
