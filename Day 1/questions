@@ -1,4 +1,4 @@
-//Swap 2 numbers without a temporary variable
+01. Swap 2 numbers without a temporary variable
 
 let a = 10, b = 5
 console.log("a before swap: "+a);
@@ -11,3 +11,9 @@ a = a - b
 
 console.log("a after swap: "+a);
 console.log("b after swap: "+b);
+
+//Find 3 large numbers among given number of array
+//Break a whole numbers into digits like 4562 -> 4,5,6,2
+//Scale a matrix
+//Multiply a2 matrix
+//Create a function to print elements from a multi dimensional Array
