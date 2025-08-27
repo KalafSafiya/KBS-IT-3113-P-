@@ -34,7 +34,7 @@ island(srilanka).
 ```
 
 ### Relationships
-```
+```prolog
 bigger_than(elephant,dog).
 bigger(elephant,dog).
 eats(monkey,banana).
